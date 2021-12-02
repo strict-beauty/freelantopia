@@ -9,8 +9,8 @@ Author: [David Nari(Nickname)]().
 
 - [Preface](#preface)
 - [Purpose of Moretopia](#purpose-of-moretopia)
-- [Moretopia's Ideology](#moretopia-s-ideology)
-- [Moretopia's Political method](#moretopia-s-political-method)
+- [Moretopia's Ideology](#moretopia's-ideology)
+- [Moretopia's Political method](#moretopias-political-method)
 - [Moretopia's Law](#Moretopia's Law)
 - [Mortopia's Punishment](#Mortopia's Punishment)
 - [Territory of Moretopia](#Territory of Moretopia)
