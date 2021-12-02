@@ -1,3 +1,4 @@
+# Moretopia
 Moretopia is a virtual country on the Internet that implements its laws as smart contracts.
 
 It is easy for some serious people to view the virtual country as a useless prank or even a scam.
@@ -6,7 +7,7 @@ Perhaps do you think so too?
 
 But then you need to think seriously again.
 
-> First, let's talk about scams.
+## First, Let's talk about scams.
 
 If you are not familiar with smart contracts, you can think of them as open contracts whose reliability is absolutely guaranteed by technology.
 
@@ -14,7 +15,7 @@ Smart contracts are open to all, and their execution is absolutely correct, so t
 
 Even if you don't believe in the honesty of God, you can't help but believe in the honesty of smart contracts.
 
-> Second, let's talk about unnecessary pranks.
+## Second, Let's talk about unnecessary pranks.
 
 Pranks aren't always superfluous.
 
@@ -28,7 +29,7 @@ Now, people are discussing important social issues and policies only with words,
 
 Even if Moretopia does not succeed, it will record an important experimental data for the construction of an ideal society, and mankind will learn a very useful lesson.
 
-> Third, you can also think of Moretopia as the world's largest masquerade ball.
+## Third, You can also think of Moretopia as the world's largest masquerade ball.
 
 This masquerade ball helps to color people's lives.
 
@@ -36,13 +37,15 @@ In fact, the content of many movies is far from reality, but movies have become 
 
 Moreover, this masquerade ball can really help people's lives through borderless payments and freelance marketing.
 
-> Fourth, anyone has certain curiosity.
+## Fourth, Anyone has certain curiosity.
 
 Science has already proven that curiosity is one of the most essential components of human intelligence.
 
 Still, if you criticize Moretopia, I would like to ask you.
 
 "Aren't you even curious about that?"
+
+## Last, My Expectation
 
 If you understood what I was saying, I think you would support Moretopia or at least wouldn't criticize it.
 
@@ -56,4 +59,4 @@ I am waiting for your support or your criticize at sun901073@gmail.com.
 
 Thank you.
 
-David Nari.
+David Nari. 2021.12.1
