@@ -19,7 +19,7 @@ Version: 0.0.1
 - [Citizen of Moretopia](#citizen-of-moretopia)
 - [Moretopia's Multi-ethnicity and Multi-culture Policy](#moretopias-multi-ethnicity-and-multi-culture-policy)
 - [Workers of Moretopia](#workers-of-moretopia)
-- [Politicians and political parties in Moretopia](#politicians-and-political-parties-in-moretopia)
+- [Politicians and Political Parties in Moretopia](#politicians-and-political-parties-in-moretopia)
 - [National Organization of Moretopia](#national-organization-of-moretopia)
 - [President of Moretopia](#president-of-moretopia)
 - [Moretopia's Cabinet](#moretopias-cabinet)
@@ -27,9 +27,9 @@ Version: 0.0.1
 - [Moretopia's Policy Podium](#moretopias-policy-podium)
 - [General Election of Moretopia](#general-election-of-moretopia)
 - [Moretopia's Foreign Policy](#moretopias-foreign-policy)
-- [Moretopia's national name, flag, national emblem, national anthem](#moretopias-national-name-flag-national-emblem-national-anthem)
-- [Moretopia's national income](#moretopias-national-income)
-- [Moretopia's budget and profit distribution](#moretopias-budget-and-profit-distribution)
+- [Moretopia's National Name, Flag, Emblem, Anthem](#moretopias-national-name-flag-emblem-anthem)
+- [Moretopia's National Income](#moretopias-national-income)
+- [Moretopia's Budget and Profit Distribution](#moretopias-budget-and-profit-distribution)
 - [Certificates of Moretopia](#certificates-of-moretopia)
 - [Moretopia Medal and Honorary Title](#moretopia-medal-and-honorary-title)
 - [Statistics from Moretopia](#statistics-from-moretopia)
@@ -318,16 +318,15 @@ and does not act hostile or prejudice against any real country.
 - Moretopia makes every effort to ensure that real countries do not limit 
 their rights, activities, and interests as citizens of virtual countries.
 
-## Moretopia's national name, flag, national emblem, national anthem
-- Moretopia defines national names, flags,  national emblem and national 
-anthem that are consistent with its ideology and multi-ethnic nature.
+## Moretopia's National Name, Flag, Emblem, Anthem
+- Moretopia defines national names, flags, emblem and anthem that are consistent with its ideology and multi-ethnic nature.
 
 - If the lyrics of the national anthem are determined, they are translated into different national languages.
 
 - The national title, national flag, national emblem, and national anthem are stipulated 
 as a method of voting when the population exceeds one million.
 
-## Moretopia's national income.
+## Moretopia's National Income.
 - Moretopia runs a freelance marketplace where it collects commissions 
 from people to ensure job opportunities and generate a national income.
 
@@ -339,7 +338,7 @@ from people to ensure job opportunities and generate a national income.
 
 - Moretopia accepts donations from sponsors.
 
-## Moretopia's budget and profit distribution
+## Moretopia's Budget and Profit Distribution
 - A budget is prepared to operate Moretopia's national organization.
 
 - The budget consists of a portion of national income and donations.
