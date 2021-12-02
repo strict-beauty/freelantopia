@@ -1,5 +1,5 @@
-# WHITE PAPER OF MORTOPIA
->   Moretopia is the name of a virtual country that realizes it's laws as a smart contract in the blockchain.
+# WHITE PAPER OF MORETOPIA (Draft)
+>   Moretopia is the name of a virtual country that realizes it's laws as smart contracts in the blockchain.
 
 Author: [David Nari](mailto:sun901073@gmail.com)
 
