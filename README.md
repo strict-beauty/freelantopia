@@ -44,7 +44,13 @@ Still, if you criticize Moretopia, I would like to ask you.
 
 "Aren't you even curious about that?"
 
-If you understood what I was saying, I think you would support Moretopia or at least wouldn't criticize it. I expect that the Moretopia concept will evolve from the germination stage to the growth stage with the support of many people including you. I hope that you will introduce Moretopia to your family and friends and have many useful discussions with them. In particular, if you are a leader in blockchain technology, I hope for your active interest for Moretopia.
+If you understood what I was saying, I think you would support Moretopia or at least wouldn't criticize it.
+
+I expect that the Moretopia concept will evolve from the germination stage to the growth stage with the support of many people including you.
+
+I hope that you will introduce Moretopia to your family and friends and have many useful discussions with them.
+
+In particular, if you are a leader in blockchain technology, I hope for your active interest for Moretopia.
 
 I am waiting for your support or your criticize at sun901073@gmail.com.
 
