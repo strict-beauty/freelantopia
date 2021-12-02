@@ -13,7 +13,7 @@ Version: 0.0.1
 - [Purpose of Moretopia](#purpose-of-moretopia)
 - [Moretopia's Ideology](#moretopias-ideology)
 - [Moretopia's Political method](#moretopias-political-method)
-- [Moretopia's Law](#Moretopias-law)
+- [Moretopia's Law](#moretopias-law)
 - [Mortopia's Punishment](#mortopias-punishment)
 - [Territory of Moretopia](#territory-of-moretopia)
 - [Citizen of Moretopia](#citizen-of-moretopia)
@@ -127,7 +127,7 @@ Mortopia is inhabited not only by sincere and honest people, but also by crimina
 ## Territory of Moretopia
 Moretopia occupies worldwide computer network non-exclusively.
 
-## Citizen of Moretopia (Moretopizen)
+## Citizen of Moretopia
 > A Moretopizen is a person who has obtained citizenship as a website account holder of Moretopia.
 
 - All citizens of Motopia are equal in personality.
@@ -345,7 +345,7 @@ from people to ensure job opportunities and generate a national income.
 
 - The remaining revenue not used in the budget is distributed among token holders according to their token share.
 
-## Certificate of Moretopia
+## Certificates of Moretopia
 - Citizenship cards are issued to all citizens of Moretopia, and certificates are issued to state officials and members in need.
 
 - Moretopia issues various certificates that recognize the qualifications of citizens.
