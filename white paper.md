@@ -1,37 +1,39 @@
 # WHITE PAPER OF MORTOPIA
 >   Moretopia is the name of a virtual country that realizes it's laws as a smart contract in the blockchain.
 
-Author: [David Nari(Nickname)]().
+Author: [David Nari](mailto:sun901073@gmail.com)
+
+Version: 0.0.1
 
 ## Table of Contents
 <details>
-<summary><strong>Details</strong></summary>
+<summary><strong>Expand/Collapse</strong></summary>
 
 - [Preface](#preface)
 - [Purpose of Moretopia](#purpose-of-moretopia)
-- [Moretopia's Ideology](#moretopia's-ideology)
+- [Moretopia's Ideology](#moretopias-ideology)
 - [Moretopia's Political method](#moretopias-political-method)
-- [Moretopia's Law](#Moretopia's Law)
-- [Mortopia's Punishment](#Mortopia's Punishment)
-- [Territory of Moretopia](#Territory of Moretopia)
-- [Citizen of Moretopia](#Citizen of Moretopia)
-- [Moretopia's Multi-ethnicity and Multi-culture Policy](#Moretopia's Multi-ethnicity and Multi-culture Policy)
-- [Workers of Moretopia](#Workers of Moretopia)
-- [Politicians and political parties in Moretopia](#Politicians and political parties in Moretopia)
-- [National Organization of Moretopia](#National Organization of Moretopia)
-- [President of Moretopia](#President of Moretopia)
-- [Moretopia's Cabinet](#Moretopia's Cabinet)
-- [Court of Moretopia](#Court of Moretopia)
-- [Moretopia's Policy Podium](#Moretopia's Policy Podium)
-- [General Election of Moretopia](#General Election of Moretopia)
-- [Moretopia's Foreign Policy](#Moretopia's Foreign Policy)
-- [Moretopia's national name, flag, national emblem, national anthem](#Moretopia's-national-name-flag-national-emblem-national-anthem)
-- [Moretopia's national income](#Moretopia's national income)
-- [Moretopia's budget and profit distribution](#Moretopia's budget and profit distribution)
-- [Certificates of Moretopia](#Certificates of Moretopia)
-- [Moretopia Medal and Honorary Title](#Moretopia Medal and Honorary Title)
-- [Statistics from Moretopia](#Statistics from Moretopia)
-- [Moretopia's Historical Journal](#Moretopia's Historical Journal)
+- [Moretopia's Law](#Moretopias-law)
+- [Mortopia's Punishment](#mortopias-punishment)
+- [Territory of Moretopia](#territory-of-moretopia)
+- [Citizen of Moretopia](#citizen-of-moretopia)
+- [Moretopia's Multi-ethnicity and Multi-culture Policy](#moretopias-multi-ethnicity-and-multi-culture-policy)
+- [Workers of Moretopia](#workers-of-moretopia)
+- [Politicians and political parties in Moretopia](#politicians-and-political-parties-in-moretopia)
+- [National Organization of Moretopia](#national-organization-of-moretopia)
+- [President of Moretopia](#president-of-moretopia)
+- [Moretopia's Cabinet](#moretopias-cabinet)
+- [Court of Moretopia](#court-of-moretopia)
+- [Moretopia's Policy Podium](#moretopias-policy-podium)
+- [General Election of Moretopia](#general-election-of-moretopia)
+- [Moretopia's Foreign Policy](#moretopias-foreign-policy)
+- [Moretopia's national name, flag, national emblem, national anthem](#moretopias-national-name-flag-national-emblem-national-anthem)
+- [Moretopia's national income](#moretopias-national-income)
+- [Moretopia's budget and profit distribution](#moretopias-budget-and-profit-distribution)
+- [Certificates of Moretopia](#certificates-of-moretopia)
+- [Moretopia Medal and Honorary Title](#moretopia-medal-and-honorary-title)
+- [Statistics from Moretopia](#statistics-from-moretopia)
+- [Moretopia's Historical Journal](#moretopias-historical-journal)
 - [Reference](#reference)
 - [Thanks](#thanks)
 
