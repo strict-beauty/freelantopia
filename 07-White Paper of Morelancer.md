@@ -161,7 +161,7 @@ This rule was also established to further encourage appropriate bids.
 If the client withdraws from the project bid by the freelancer, 
 the freelancer not only receives a refund of the fee, but rather gets a profit equal to the bid fee.
 
-### Bead Withdrawal
+### Withdrawal of Bid
 Freelancers can withdraw bids that have not been interviewed.
 
 Part of the bid fee will be returned when the bid is withdrawn.
@@ -173,7 +173,7 @@ Broadcast messages sent to all freelancers or all clients can provide convenienc
 
 The broadcast message fee is the site's income.
 
-### Withdrawal of work
+### Withdrawal of Work
 Freelancers can withdraw from projects they have already started.
 
 To do this, the freelancer must agree with the client.
