@@ -7,9 +7,9 @@ Author: [David Nari(Nickname)]().
 <details>
 <summary><strong>Details</strong></summary>
 
-- [Preface](##Prefacee)
-- [Purpose of Moretopia](##Purpose of Moretopia)
-- [Moretopia's Ideology](##Moretopia's Ideology])
+- [Preface](##preface)
+- [Purpose of Moretopia](##purpose-of-moretopia)
+- [Moretopia's Ideology](##moretopia-s-ideology)
 - [Moretopia's Political method](##Moretopia's Political method)
 - [Moretopia's Law](##Moretopia's Law)
 - [Mortopia's Punishment](##Mortopia's Punishment)
@@ -32,8 +32,8 @@ Author: [David Nari(Nickname)]().
 - [Moretopia Medal and Honorary Title](##Moretopia Medal and Honorary Title)
 - [Statistics from Moretopia](##Statistics from Moretopia)
 - [Moretopia's Historical Journal](##Moretopia's Historical Journal)
-- [Reference](##Reference)
-- [Thanks](##Thanks)
+- [Reference](#reference)
+- [Thanks](##thanks)
 
 </details>
 
