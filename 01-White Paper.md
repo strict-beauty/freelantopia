@@ -14,7 +14,7 @@ Version: 0.0.1
 - [Moretopia's Ideology](#moretopias-ideology)
 - [Moretopia's Political method](#moretopias-political-method)
 - [Moretopia's Law](#moretopias-law)
-- [Mortopia's Punishment](#mortopias-punishment)
+- [Moretopia's Punishment](#moretopias-punishment)
 - [Territory of Moretopia](#territory-of-moretopia)
 - [Citizen of Moretopia](#citizen-of-moretopia)
 - [Moretopia's Multi-ethnicity and Multi-culture Policy](#moretopias-multi-ethnicity-and-multi-culture-policy)
@@ -115,10 +115,10 @@ The reliability and value of smart contracts as a product of modern information 
 
 This will make people have a firm trust in the rightness of the virtual country, and this trust will be the spiritual foundations for the successful formation of the virtual country.
 
-## Mortopia's Punishment
-A Mortopia is not a ideal utopia.
+## Moretopia's Punishment
+A Moretopia is not a ideal utopia.
 
-Mortopia is inhabited not only by sincere and honest people, but also by criminals and enemies.
+Moretopia is inhabited not only by sincere and honest people, but also by criminals and enemies.
 
 - Penalties  for crimes shall be applied in accordance with the law.
 
