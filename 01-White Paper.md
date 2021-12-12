@@ -1,14 +1,11 @@
-# WHITE PAPER OF MORETOPIA (Draft)
->   Moretopia is the name of a virtual country that realizes it's laws as smart contracts in the blockchain.
+# WHITE PAPER OF FREELANTOPIA
+>   Freelantopia is "Utopia of world-wide freelancers".
 
 Author: [David Nari](mailto:sun901073@gmail.com)
 
 Version: 0.0.1
 
 ## Table of Contents
-<details>
-<summary><strong>Expand/Collapse</strong></summary>
-
 - [Preface](#preface)
 - [Purpose of Moretopia](#purpose-of-moretopia)
 - [Moretopia's Ideology](#moretopias-ideology)
@@ -36,8 +33,6 @@ Version: 0.0.1
 - [Moretopia's Historical Journal](#moretopias-historical-journal)
 - [Reference](#reference)
 - [Thanks](#thanks)
-
-</details>
 
 ## Preface
 2021 = 1516 + 505
